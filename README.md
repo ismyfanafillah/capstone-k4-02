@@ -1,8 +1,8 @@
-# Monitoring Kandang Sapi dengan Menggunakan Sensor Suhu, Kelembapan, Cahaya, dan Gas Amonia
+# Monitoring Kandang Sapi Menggunakan Sensor Suhu, Kelembapan, Cahaya, dan Gas Amonia
 
 ![Poster](poster.png)
 
-Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang sapi dengan menggunakan sensor DHT22, BH1750, dan MICS 6814 yang terhubung ke mikrokontroler ESP32. Data dikumpulkan dari Kandang Sapi Laboratorium Fakultas Peternakan IPB University selama bulan Mei 2024, dan dianalisis melalui platform ThingSpeak.
+Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang sapi menggunakan sensor DHT22, BH1750, dan MICS 6814 yang terhubung ke mikrokontroler ESP32. Data dikumpulkan dari Kandang Sapi Laboratorium Fakultas Peternakan IPB University selama bulan Mei 2024, dan dianalisis melalui platform ThingSpeak.
 
 ## Fitur
 
@@ -12,7 +12,7 @@ Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang 
 
 ## Perangkat Keras
 
-- Sensor DHT22 untuk mengukur suhu dan kelembaban udara
+- Sensor DHT22 untuk mengukur suhu dan kelembapan udara
 - Sensor BH1750 untuk mengukur intensitas cahaya
 - Sensor MICS 6814 untuk mengukur kadar gas amonia (NH3)
 - Mikrokontroler ESP32
