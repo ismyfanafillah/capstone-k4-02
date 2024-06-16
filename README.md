@@ -1,4 +1,4 @@
-# Monitoring Kandang Sapi dengan Menggunakan Sensor Suhu, Kelembaban, Cahaya, dan Gas Amonia
+# Monitoring Kandang Sapi dengan Menggunakan Sensor Suhu, Kelembapan, Cahaya, dan Gas Amonia
 
 ![Poster](poster.png)
 
