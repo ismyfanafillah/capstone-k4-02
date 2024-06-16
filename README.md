@@ -1,5 +1,7 @@
 # Monitoring Kandang Sapi dengan Menggunakan Sensor Suhu, Kelembaban, Cahaya, dan Gas Amonia
 
+![Poster](poster.png)
+
 Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang sapi dengan menggunakan sensor DHT22, BH1750, dan MICS 6814 yang terhubung ke mikrokontroler ESP32. Data dikumpulkan dari Kandang Sapi Laboratorium Fakultas Peternakan IPB University selama bulan Mei 2024, dan dianalisis melalui platform ThingSpeak.
 
 ## Fitur
@@ -34,9 +36,11 @@ Memvisualisasikan dan menganalisis data kondisi lingkungan kandang sapi melalui 
 
 ## Tim
 
-- Ismy Fana Fillah
-- Muhammad Rizki Al Maghribi
-- Dinda Regista Aprilia
-- Khansa Nabila Alfiyani
-- Khalid Zia Rabbani
-- Aulia Azzahra Syafitri
+| NIM          | Nama                        |
+|--------------|-----------------------------|
+| G6401211001  | Ismy Fana Fillah            |
+| G6401211003  | Muhammad Rizki Al Maghribi  |
+| G6401211012  | Dinda Regista Aprilia       |
+| G6401211036  | Aulia Azzahra Syafitri      |
+| G6401211052  | Khalid Zia Rabbani          |
+| G6401211115  | Khansa Nabila Alfiyani      |
