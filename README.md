@@ -6,9 +6,9 @@ Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang 
 
 ## Fitur
 
-Menginisialisasi sensor DHT22, BH1750, dan MICS 6814 yang terhubung ke mikrokontroler ESP32
-Mengirim data secara real-time ke platform ThingSpeak setiap 30 detik
-Memvisualisasikan dan menganalisis data kondisi lingkungan kandang sapi melalui platform ThingSpeak
+- Menginisialisasi sensor DHT22, BH1750, dan MICS 6814 yang terhubung ke mikrokontroler ESP32
+- Mengirim data secara real-time ke platform ThingSpeak setiap 30 detik
+- Memvisualisasikan dan menganalisis data kondisi lingkungan kandang sapi melalui platform ThingSpeak
 
 ## Perangkat Keras
 
