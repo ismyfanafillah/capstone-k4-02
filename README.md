@@ -16,7 +16,7 @@ Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang 
 - Sensor BH1750 untuk mengukur intensitas cahaya
 - Sensor MICS 6814 untuk mengukur kadar gas amonia (NH3)
 - Mikrokontroler ESP32
-- Modem 4G untuk gateway ke internet
+- Modem 4G (hotspot/wifi) untuk gateway ke internet
 
 ## Perangkat Lunak
 
@@ -30,7 +30,7 @@ Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang 
 - Hubungkan sensor DHT22, BH1750, dan MICS 6814 ke mikrokontroler ESP32 sesuai dengan skema rangkaian
 - Upload kode program ke mikrokontroler ESP32 menggunakan Arduino IDE
 - Konfigurasikan koneksi WiFi pada kode program dengan kredensial yang sesuai
-- Hubungkan modem 4G sebagai gateway ke internet
+- Hubungkan modem 4G (hotspot/wifi) sebagai gateway ke internet
 - Akses platform ThingSpeak untuk melihat visualisasi dan analisis data kondisi lingkungan kandang sapi
 
 
